@@ -1,4 +1,4 @@
-# Login2explorE-jpdb-ShipmentForm
+# Login2XplorE-jpdb-ShipmentForm
 
 # ABOUT THE PROJECT
 1- This is the mini Form project to show the functionality of JPDB (Json Power DB). 
